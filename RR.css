@@ -1,0 +1,15 @@
+*{
+    margin: 10px;
+}
+body{
+    margin: 5px;
+    background-image: url(RR\ 123.png);
+    background-size: cover;
+    color: black;
+}
+img{
+   margin: 50px; 
+}
+ul{
+    font-weight: bold;
+}

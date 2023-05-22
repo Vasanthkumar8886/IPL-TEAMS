@@ -1,0 +1,26 @@
+*{
+    margin: 10px;
+}
+body{
+    margin: 5px;
+    background-image: url(mumbai-indians-indian-premier-league-ipl-ipl-2021-cricket-7680x4320-4934.png);
+    background-size: cover;
+}
+img{
+   margin: 50px; 
+}
+ul{
+    font-weight: bold;
+}
+p{
+    color: azure;
+}
+h3{
+    color: azure;
+}
+ul{
+    color: azure;
+}
+h2{
+    color: beige;
+}

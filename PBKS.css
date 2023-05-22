@@ -1,0 +1,15 @@
+*{
+    margin: 10px;
+}
+body{
+    margin: 5px;
+    background-image: url(pbks.jpg);
+    background-size: cover;
+    color: brown
+}
+img{
+   margin: 50px; 
+}
+ul{
+    font-weight: bold;
+}

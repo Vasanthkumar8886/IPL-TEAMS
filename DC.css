@@ -1,0 +1,15 @@
+*{
+    margin: 10px;
+}
+body{
+    margin: 5px;
+    background-image: url(dc123.jpg);
+    background-size: cover;
+    color: beige;
+}
+img{
+   margin: 50px; 
+}
+ul{
+    font-weight: bold;
+}

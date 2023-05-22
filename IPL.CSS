@@ -1,0 +1,100 @@
+* {
+    margin: 10px;
+    padding: 0px;
+}
+
+
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-image:url(background\ img.jpg);
+    background-size: cover;
+   
+    
+    
+}
+
+
+
+
+#logo {
+    font-size: 5em;
+    font-weight: 1000;
+    color: darkblue;
+    margin: 50px;
+    font-style: oblique;
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1 {
+    font-size: 5em;
+    font-style: oblique;
+    color: black;
+    
+    
+}
+
+
+.link-button {
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.5px;
+    background: whitesmoke !important;
+    /* https://css-tricks.com/when-using-important-is-the-right-choice/ */
+    
+    font-size: 1.8em;
+    border-radius: 90%;
+    cursor: pointer;
+    border-color: black;
+    padding: 5px;
+color: azure;
+
+}
+
+#skills ul {
+    list-style: none;
+    font-size: 1.5em;
+}
+
+#skills ul li {
+    margin: 5px 5px;
+    
+    
+}
+
+progress[value] {
+    height: 10px;
+    width: 350px;
+    
+}
+.nav-links ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    color: antiquewhite;
+}
+
+.nav-links a {
+    font-size: 1.8em;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.nav-links a:hover {
+    color: blue;
+}
+h3 {
+    font-size: 3em;
+    font-style: oblique;
+    color: aliceblue;
+}
+#d1{
+    margin:auto;
+    margin-left: 500px;
+}
+
+
+
+
